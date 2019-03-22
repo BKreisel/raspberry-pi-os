@@ -6,19 +6,25 @@ Each lesson is designed in such a way that it first explains how some kernel fea
 
 For more information about project goals and history, please read the [Introduction](docs/Introduction.md). The project is still under active development, if you are willing to participate - please read the [Contribution guide](docs/Contributions.md).
 
-<a href="https://twitter.com/RPi_OS" target="_blank">
-  <img src="https://raw.githubusercontent.com/s-matyukevich/raspberry-pi-os/master/images/twitter.png" alt="Follow @RPi_OS on twitter" height="34" >
-</a>
+<p>
+  <a href="https://twitter.com/RPi_OS" target="_blank">
+    <img src="https://raw.githubusercontent.com/s-matyukevich/raspberry-pi-os/master/images/twitter.png" alt="Follow @RPi_OS on twitter" height="34" >
+  </a>
 
-<a href="https://www.facebook.com/groups/251043708976964/" target="_blank">
-  <img src="https://raw.githubusercontent.com/s-matyukevich/raspberry-pi-os/master/images/facebook.png" alt="Follow Raspberry Pi OS on facebook" height="34" >
-</a>
+  <a href="https://www.facebook.com/groups/251043708976964/" target="_blank">
+    <img src="https://raw.githubusercontent.com/s-matyukevich/raspberry-pi-os/master/images/facebook.png" alt="Follow Raspberry Pi OS on facebook" height="34" >
+  </a>
 
-<a href="https://www.producthunt.com/upcoming/raspberry-pi-os" target="_blank">
-  <img src="https://raw.githubusercontent.com/s-matyukevich/raspberry-pi-os/master/images/subscribe.png" alt="Subscribe for updates" height="34" >
-</a>
+  <a href="https://join.slack.com/t/rpi-os/shared_invite/enQtNDQ1NTg2ODc1MDEwLTUxNjc5ZGUzN2EyNWEyNGEyZWU1ZDY1MWJjZTBjYTQzNDBhMzIzNzJhMWNmYzQ1YzQwOGRjOTEzOWYzYzM1YmE" target="_blank">
+    <img src="https://raw.githubusercontent.com/s-matyukevich/raspberry-pi-os/master/images/slack.png" alt="Join Raspberry Pi OS in slack" height="34" >
+  </a>
 
-## Table of Content
+  <a href="https://www.producthunt.com/upcoming/raspberry-pi-os" target="_blank">
+    <img src="https://raw.githubusercontent.com/s-matyukevich/raspberry-pi-os/master/images/subscribe.png" alt="Subscribe for updates" height="34" >
+  </a>
+</p>
+
+## Table of Contents
 
 * **[Introduction](docs/Introduction.md)**
 * **[Contribution guide](docs/Contributions.md)**
